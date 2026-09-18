@@ -1,0 +1,4 @@
+subscription_id      = "00000000-0000-0000-0000-000000000000"
+storage_account_name = "mediatranscoder1234"
+registry_name        = "mediatranscoderacr"
+container_image      = "ghcr.io/your-org/media-transcoder:latest"

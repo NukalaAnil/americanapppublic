@@ -1,0 +1,5 @@
+azure-storage-blob==12.27.0
+azure-storage-queue==12.13.1
+fastapi==0.116.1
+python-multipart==0.0.20
+uvicorn[standard]==0.35.0
